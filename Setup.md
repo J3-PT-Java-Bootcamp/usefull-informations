@@ -27,7 +27,7 @@ Intellij Ultimate
 - `git --version`
 
 
-## Activate Intelij Ultimate License
+## Activate Intellij Ultimate License
 
 1. Create a new account on https://www.jetbrains.com/
 2. Activate you license by following the instruction you will receive in private from the teacher/Ta
