@@ -14,17 +14,17 @@ Intellij Ultimate
 ## MacOS
 
 1. Install Brew https://brew.sh/
-2. brew install openjdk@17
-3. brew install maven
-4. brew install git
-5. brew install --cask intellij-idea
+2. `brew install openjdk@17`
+3. `brew install maven`
+4. `brew install git`
+5. `brew install --cask intellij-idea`
 
 
 ## Check for the version
 
-java --version
-mvn -v
-git --version
+- `java --version`
+- `mvn -v`
+- `git --version`
 
 
 ## Activate Intelij Ultimate License
