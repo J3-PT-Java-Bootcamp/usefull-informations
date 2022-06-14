@@ -14,7 +14,7 @@
 ## MacOS
 
 1. Install Brew https://brew.sh/
-2. `brew install openjdk@17`
+2. `brew install openjdk@17` then follow the info in this page https://formulae.brew.sh/formula/openjdk@17#default
 3. `brew install maven`
 4. `brew install git`
 5. `brew install --cask intellij-idea`
@@ -22,7 +22,7 @@
 
 ## Check for the version
 
-- `java --version`
+- `java -version`
 - `mvn -v`
 - `git --version`
 
