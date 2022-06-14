@@ -1,9 +1,9 @@
 # Environment setup
 
-Java 17
-Maven
-Git
-Intellij Ultimate
+- Java 17
+- Maven
+- Git
+- Intellij Ultimate
 
 ## Windows
 
