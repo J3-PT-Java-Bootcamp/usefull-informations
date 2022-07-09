@@ -9,6 +9,7 @@
 [- Week 3 Day 2](https://ironhack.zoom.us/rec/share/XXb327eQzZSz5LDf9ZIi9iZ1GKhdw5ZeZbydMpfJf0woux2VfKlr6F5yL-BclRxb.LkHdi-h5lVIPvPsW)
 
 [- Week 3 Day 3](https://ironhack.zoom.us/rec/share/WvrzdmwzOVkiaRJW7cruPTLhDvt18ON4VpKecLwQt7uncCQnNqfPQGJ8KYBUcCCS.bGLYb27ZIH_Zi3y9)
+[- Week 4 Day 2](https://ironhack.zoom.us/rec/share/uXGeM2GwbT42f0o-4klWRFqX1BhIAUORO6UnmEO9v_adUAyRx1WvDajvKdX6H1yS.k_T9h94QLdMZDjD2)
 
 
 
