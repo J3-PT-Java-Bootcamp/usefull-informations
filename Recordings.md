@@ -32,6 +32,8 @@
 
 [- Week 5 Day 3 - Lab + New Project](https://ironhack.zoom.us/rec/share/tgNLwskN-8Ug2S3AQa2Gt8qoXdG_MP7svEMRrLr5xJDQONl-eqJfHVvsfd2L3XwV.F1XfZn47fTjKVty2?startTime=1657962387000)
 
+[- Week 6 Day 1 - Intro to SQL and normalization](https://ironhack.zoom.us/rec/share/YGLKlvZQ51EVS4yo3kIMJ-hbLFdtMguhpcEpXAN74sNmG2vvoqHkHvDR7e8Af0FP.kemJsCenRmqUXopj)
+
 
 
 
