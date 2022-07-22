@@ -34,6 +34,8 @@
 
 [- Week 6 Day 1 - Intro to SQL and normalization](https://ironhack.zoom.us/rec/share/YGLKlvZQ51EVS4yo3kIMJ-hbLFdtMguhpcEpXAN74sNmG2vvoqHkHvDR7e8Af0FP.kemJsCenRmqUXopj)
 
+[- Week 6 Day 2 - Advanced SQL queries](https://ironhack.zoom.us/rec/share/Bt4C8qeGjmrXF_H4JGlXfLLIQNiCnA43syiDFu6mzREJ-TXM0vpo1M4u817xZ8El.sw8vJUENW_8-sJCV)
+
 
 
 
