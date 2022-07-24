@@ -36,6 +36,8 @@
 
 [- Week 6 Day 2 - Advanced SQL queries](https://ironhack.zoom.us/rec/share/Bt4C8qeGjmrXF_H4JGlXfLLIQNiCnA43syiDFu6mzREJ-TXM0vpo1M4u817xZ8El.sw8vJUENW_8-sJCV)
 
+[- Week 6 Day 3 - Intro to Springboot and first steps with JPA](https://ironhack.zoom.us/rec/share/pse7-NqH9xkOe-6JnRolw5PO0thL67u7N1FZ-_lvqeRivD76cnln6wcx74cNtGLJ.VSB3zYFRsqsrlnoI)
+
 
 
 
