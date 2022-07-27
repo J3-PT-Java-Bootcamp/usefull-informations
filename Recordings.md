@@ -38,6 +38,8 @@
 
 [- Week 6 Day 3 - Intro to Springboot and first steps with JPA](https://ironhack.zoom.us/rec/share/pse7-NqH9xkOe-6JnRolw5PO0thL67u7N1FZ-_lvqeRivD76cnln6wcx74cNtGLJ.VSB3zYFRsqsrlnoI)
 
+[- Week 7 Day 1 - Review JPA basics + Spring JPA testing ](https://ironhack.zoom.us/rec/share/hr-gFbPcyd-FaFZCv8-9mKQd8-1fV50XIhRyP6Xo3bY7pwB1ebXDmR4hMoeOduI2.su878R_HaYPtNbID)
+
 
 
 
