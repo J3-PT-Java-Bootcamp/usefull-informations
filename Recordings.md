@@ -40,6 +40,8 @@
 
 [- Week 7 Day 1 - Review JPA basics + Spring JPA testing ](https://ironhack.zoom.us/rec/share/hr-gFbPcyd-FaFZCv8-9mKQd8-1fV50XIhRyP6Xo3bY7pwB1ebXDmR4hMoeOduI2.su878R_HaYPtNbID)
 
+[- Week 7 Day 2 - JPQL and Native queries](https://ironhack.zoom.us/rec/share/1qIZQiv8QOVWwIwdqOMxGqGFzq2OBpqfwVGgIqy2kxZWNy8VUedLbWznSM0ugKwH.1ofamzjmPRmnmAXr)
+
 
 
 
