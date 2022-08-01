@@ -42,7 +42,7 @@
 
 [- Week 7 Day 2 - JPQL and Native queries](https://ironhack.zoom.us/rec/share/1qIZQiv8QOVWwIwdqOMxGqGFzq2OBpqfwVGgIqy2kxZWNy8VUedLbWznSM0ugKwH.1ofamzjmPRmnmAXr)
 
-
+[- Week 7 Day 3 - Inheritance and Embeddable](https://ironhack.zoom.us/rec/share/a6yH-wDtBbLBD2jNy4c6niGZ-VhKHccx5CMxv8JVF9CCFKbnLQH57xjjlEzKzHfY.Lps_H2xVE4mjBiy8)
 
 
 
