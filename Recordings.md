@@ -44,6 +44,8 @@
 
 [- Week 7 Day 3 - Inheritance and Embeddable](https://ironhack.zoom.us/rec/share/a6yH-wDtBbLBD2jNy4c6niGZ-VhKHccx5CMxv8JVF9CCFKbnLQH57xjjlEzKzHfY.Lps_H2xVE4mjBiy8)
 
+[- Week 8 Day 1 - Review + ORM ](https://ironhack.zoom.us/rec/share/wYG2x4-MWg6v2EbJKUfLLnLYOtg3JvI7F2De-hfwmAnYnsAnfpGmS9lV3MfXFpmY.-8Tr9oedZrZYZgtf)
+
 
 
 
