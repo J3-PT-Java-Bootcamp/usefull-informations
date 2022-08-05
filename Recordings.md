@@ -46,6 +46,8 @@
 
 [- Week 8 Day 1 - Review + ORM ](https://ironhack.zoom.us/rec/share/wYG2x4-MWg6v2EbJKUfLLnLYOtg3JvI7F2De-hfwmAnYnsAnfpGmS9lV3MfXFpmY.-8Tr9oedZrZYZgtf)
 
+[- Week 8 Day 2 - EAGER vs LAZY](https://ironhack.zoom.us/rec/share/siQ-JsaCxhR6hS5USIAQPF6_PxWGL6IPfWZ6UF1xQyKU8RG1N5W6gnfPKBQdQA.GvkppoMtyYA4kwHt)
+
 
 
 
