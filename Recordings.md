@@ -50,8 +50,7 @@
 
 [- Week 8 Day 3 - Lab 302 - Lab 304 review](https://ironhack.zoom.us/rec/share/GV2w0fibG46oX1DY1c_qzzJwH1AtIUCB70mHebIVVNAivJhB6cIYsYGA8DXnWenh.TeA16LHmYGWe9UVE)
 
-[- Week 9 Day 1 - Intro to Spring Web](https://ironhack.zoom.us/rec/share/GV2w0fibG46oX1DY1c_qzzJwH1AtIUCB70mHebIVVNAivJhB6cIYsYGA8DXnWenh.TeA16LHmYGWe9UVE)
-[](https://ironhack.zoom.us/rec/share/Kc5UEJUCBAd_5ky9F14BVQMI3CtWABvXE0p_kJXFrx0g7z6t4dAnq6OJr-jRYcp9.FEILn-GblEtkMSDQ)
+[- Week 9 Day 1 - Intro to Spring Web](https://ironhack.zoom.us/rec/share/Kc5UEJUCBAd_5ky9F14BVQMI3CtWABvXE0p_kJXFrx0g7z6t4dAnq6OJr-jRYcp9.FEILn-GblEtkMSDQ)
 
 
 
