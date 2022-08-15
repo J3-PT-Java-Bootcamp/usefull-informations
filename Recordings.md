@@ -52,6 +52,8 @@
 
 [- Week 9 Day 1 - Intro to Spring Web](https://ironhack.zoom.us/rec/share/Kc5UEJUCBAd_5ky9F14BVQMI3CtWABvXE0p_kJXFrx0g7z6t4dAnq6OJr-jRYcp9.FEILn-GblEtkMSDQ)
 
+[- Week 9 Day 3 - POST, PUT, PATCH, DELETE](https://ironhack.zoom.us/rec/share/Dz3fV6Qc2vU0gXMafYnv0o4CSo3QLcizsGUa-2N05Qw25uCo5QVJ3I_VwGiCwmq0.-cfnHWbACPyEYNsn)
+
 
 
 
