@@ -60,3 +60,5 @@
 
 [- Week 11 Day 2 - Intro to Microservices 101](https://ironhack.zoom.us/rec/share/n9WxJmONQ52QdflzzpbJ246aXuZeRxtdUjGZwQnsA4vltAyNjqjfkdit2ey855TK.6LJGH_gspZtU7xg1) 
 
+[- Week 11 Day 3 - Eureka server and Api Gateway](https://ironhack.zoom.us/rec/share/1B7Cj_vDDQuNEEfHTXD6Q4MPeyz00O97UR-AviNeT8fekplC74xsQ6tERdKLQO3i.yLCjeXWjej6Uvnbw?startTime=1661596664000)
+
