@@ -62,3 +62,4 @@
 
 [- Week 11 Day 3 - Eureka server and Api Gateway](https://ironhack.zoom.us/rec/share/1B7Cj_vDDQuNEEfHTXD6Q4MPeyz00O97UR-AviNeT8fekplC74xsQ6tERdKLQO3i.yLCjeXWjej6Uvnbw?startTime=1661596664000)
 
+[- Week 12 Day 1 - Refactor Webflux client](https://ironhack.zoom.us/rec/share/wt9XFO9loHf90RqUPZRS7lmbFcFdl8BqGGbzE2jIhrD-7iD0uBdz2u-Ubk4rInbX.eFWB9xyAC3Z0__hX)
